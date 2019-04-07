@@ -1,4 +1,4 @@
 # groups
 
-mvn compile
+mvn compile  
 mvn spring-boot:run
