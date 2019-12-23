@@ -1,0 +1,4 @@
+* TODO Create multi module project
+* TODO Create first rest resource
+* TODO Save and load entities form the database
+** A Tutorial can be found here: https://books.sonatype.com/mvnex-book/reference/multimodule.html
